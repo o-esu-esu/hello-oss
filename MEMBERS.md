@@ -16,3 +16,4 @@ hello my first commit
 -Ishtaa Arora
 -Niharika Singh
 -parth tiwari
+- palak giri
